@@ -1,0 +1,23 @@
+body {background-color: black;}
+nav{display:flex;flex-direction: row;justify-content: space-between;}
+img{text-decoration-color: azure;}
+.ref{text-align: right;}
+.cl1{text-align: center;color:white;font-size: 100px;
+    font-family: 'Dirtyline36Daysoftype2022';
+src: url('Dirtyline 36daysoftype 2022.eot'); /* IE9 Compat Modes */
+
+}
+p.p1{text-align: center;color: white;font-size: 25px;}
+#b1{border: 3px solid skyblue;border-radius: 70px;background-color: black;color: cyan;text-align: center;font-size: 25px;height: 60px;width:400px}
+.cl2{display: flex;flex-direction:row ;justify-content: space-between;font-size: small;}
+video{height: 100px;width: 150px;}
+video:hover{transform: translate(-50,-100);transform:  scale(2,3);transition-duration: width 2s,heigth 5s;}
+.cl3{text-align: left;color: white;font-size: 70px;margin-left: 50px;}
+footer{background-color: darkslategrey;}
+.cl4{display:  flex;flex-direction: row;justify-content: space-between;}
+li{color: grey;}
+li:hover{color: white;}
+p.p2{text-align: left;color: white;font-size: 15px;}
+#b2{border: 3px solid skyblue;border-radius: 70px;background-color: black;color: cyan;font-size: 10px;height: 30px;width:100px}
+.cl5{display:  flex;flex-direction: row;justify-content: space-around;}
+h1{color: white;}
